@@ -1,18 +1,18 @@
-# react-native-test
+# react-native-bubble-floating-test
 
 test
 
 ## Installation
 
 ```sh
-npm install react-native-test
+npm install react-native-bubble-floating-test
 ```
 
 ## Usage
 
 
 ```js
-import { multiply } from 'react-native-test';
+import { multiply } from 'react-native-bubble-floating-test';
 
 // ...
 

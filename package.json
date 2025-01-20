@@ -1,5 +1,5 @@
 {
-  "name": "react-native-test1111",
+  "name": "react-native-bubble-floating-test",
   "version": "0.1.0",
   "description": "test",
   "source": "./src/index.tsx",
@@ -37,7 +37,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-test-example",
+    "example": "yarn workspace react-native-bubble-floating-test-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -52,14 +52,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antondev-123/react-native-test1111.git"
+    "url": "git+https://github.com/antondev-123/react-native-bubble-floating-test.git"
   },
   "author": "antondev-123 <sydoranton99@outlook.com> (https://github.com/antondev-123)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/antondev-123/react-native-test1111/issues"
+    "url": "https://github.com/antondev-123/react-native-bubble-floating-test/issues"
   },
-  "homepage": "https://github.com/antondev-123/react-native-test1111#readme",
+  "homepage": "https://github.com/antondev-123/react-native-bubble-floating-test#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

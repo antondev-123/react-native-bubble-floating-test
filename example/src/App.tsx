@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-test';
+import { multiply } from 'react-native-bubble-floating-test';
 
 export default function App() {
   const [result, setResult] = useState<number | undefined>();
